@@ -12,7 +12,7 @@ name="Amul Patel"
 univ="Temple University"
 
 screenfetch
-echo $name'@'$univ
+echo tuo95012@temple.edu
 ```
 
 Save the file as **screenfetch.gif**.
