@@ -21,9 +21,9 @@ Save the file as **screenfetch.gif**.
 
 ### Installing Docker
 
-<img src="Part 1.gif" alt="Virtualbox Installation">
+<img src="Part_1.gif" alt="Virtualbox Installation">
 
 
 ### Running screenfetch
 
-<img src="Part 2.gif" alt="Running screenfetch">
+<img src="Part_2.gif" alt="Running screenfetch">
