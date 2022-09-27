@@ -8,8 +8,8 @@ Time spent: **X** hours spent in total
 2. Create a GIF recording of you running the following command block in your Kali Terminal. Copy it to a text editor first and **replace the first 2 variables, name and univ, with your real name and college name**, then copy/paste the code block into a Terminal. 
 
 ```bash
-name="FirstName LastName"
-univ="University of Science"
+name="Amul Patel"
+univ="Temple University"
 
 screenfetch
 echo $name'@'$univ
