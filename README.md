@@ -19,11 +19,10 @@ Save the file as **screenfetch.gif**.
 
 **Challenges and Problems**: 
 
-### Installing Docker
+### Installing VirtualBox and Kali
 
-<img src="Part_1.gif" alt="Virtualbox Installation">
-
-
+<img src="vbox_kali.gif" alt="Virtualbox Installation">
+ 
 ### Running screenfetch
 
-<img src="Part_2.gif" alt="Running screenfetch">
+<img src="screenfetch.gif" alt="Running screenfetch">
